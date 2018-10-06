@@ -45,7 +45,7 @@ service_worker: true
 collections:
   projects:
     output: true
-    permalink: /:collections/:name
+    permalink: /:collection/:name
 
 # BUILD SETTINGS
 markdown: kramdown
